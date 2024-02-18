@@ -1,0 +1,12 @@
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\bin\Debug\net6.0\URLShortenerData.deps.json
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\bin\Debug\net6.0\URLShortenerData.dll
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\bin\Debug\net6.0\URLShortenerData.pdb
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\obj\Debug\net6.0\URLShortenerData.csproj.AssemblyReference.cache
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\obj\Debug\net6.0\URLShortenerData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\obj\Debug\net6.0\URLShortenerData.AssemblyInfoInputs.cache
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\obj\Debug\net6.0\URLShortenerData.AssemblyInfo.cs
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\obj\Debug\net6.0\URLShortenerData.csproj.CoreCompileInputs.cache
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\obj\Debug\net6.0\URLShortenerData.dll
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\obj\Debug\net6.0\refint\URLShortenerData.dll
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\obj\Debug\net6.0\URLShortenerData.pdb
+E:\Containers and Cloud\Exam\Regular-Exam-Resources\Regular-Exam-Resources\Task-2\URLShortenerData\obj\Debug\net6.0\ref\URLShortenerData.dll
